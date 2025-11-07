@@ -1,6 +1,14 @@
-## Hi there 👋
+<img src="https://github.com/AA77HD/AA77HD/blob/main/banner.png?raw=true" alt="Andrés Amador Banner" width="100%">
 
-<!--
+
+## Hi there 👋 I'm Andrés Amador  
+
+Engineer & Data Analyst | Turning Operational Data into Insights  
+
+- 🧠 Skilled in: Python, SQL, Power BI, Data Storytelling  
+- 💼 Experience: Facilities & Data Analytics across LATAM  
+- 🚀 Currently learning: Prompt Engineering & BI Automation  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/andres-amador-b805a81b5/)!--
 **AA77HD/AA77HD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

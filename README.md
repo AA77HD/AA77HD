@@ -1,4 +1,4 @@
-<img src="https://github.com/AA77HD/AA77HD/blob/main/banner.png?raw=true" alt="Andrés Amador Banner" width="100%">
+<img src="https://github.com/AA77HD/AA77HD/blob/main/feacae67-4777-41ca-8c18-a8efc893916e.png?raw=true" alt="Andrés Amador Banner" width="100%">
 
 
 ## Hi there 👋 I'm Andrés Amador  
